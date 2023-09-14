@@ -32,6 +32,13 @@ function atualiza()
 	}
 }
 
+function roda()
+{
+	atualiza()
+	desenha()
+	window.requestAnimationFrame(roda)
+}
+
 function desenha()
 {
 	bg.desenha(0,0)
