@@ -8,7 +8,7 @@ tubaroes = {
 			x: LARGURA,
 			altura: Math.random() * ALTURA // Gera uma posição Y aleatória dentro da tela
 		});
-		this.tempoInsere = 160 + Math.floor(20 * Math.random());
+		this.tempoInsere = 70 + Math.floor(20 * Math.random());
 	},
 	
 	/*
