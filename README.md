@@ -4,6 +4,9 @@ Para esse projeto foi escolhido a musica:<br>
 Yellow Submarine - The Beatles<br>
 ![image](https://github.com/PedroFRomao/JogoSubmarino/assets/120103357/9688c860-71d1-45fa-84d0-4c4b5e645345)
 
+### **Video do jogo**
+
+
 Este é um jogo de navegador simples onde o objetivo é controlar um submarino e evitar ser atingido por tubarões. O jogo é controlado pelo mouse e tem três estados:
 
 **1. Jogar:** O jogo está em andamento e o jogador pode controlar o submarino.<br>
