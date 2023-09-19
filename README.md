@@ -1,4 +1,5 @@
 # Jogo de Submarino Amarelo 
+Trabalho de: Pedro Ferraz e Miguel Oliveira 2 Jogos
 Para esse projeto foi escolhido a musica:
 Yellow Submarine - The Beatles
 ![image](https://github.com/PedroFRomao/JogoSubmarino/assets/120103357/9688c860-71d1-45fa-84d0-4c4b5e645345)
