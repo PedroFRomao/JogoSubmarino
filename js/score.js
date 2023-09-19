@@ -10,7 +10,7 @@ score ={
 		ctx.fillStyle = this.color
 		ctx.font      = this.font
 		ctx.fillText(this.value, this.x, this.y)
-		ctx.fillText(submarino.y, this.x, this.a)
+		//ctx.fillText(submarino.y, this.x, this.a)
 	},
 
 	translate:function(){

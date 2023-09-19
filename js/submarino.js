@@ -60,8 +60,8 @@ submarino = {
 
 	desenha:function () {
 		// Desenha o sprite do submarino
-		ctx.fillStyle = "green";
-		ctx.fillRect(this.x, this.y,  this.x + spriteSubmarino.largura, this.y + spriteSubmarino.altura);
+		//ctx.fillStyle = "green";
+		//ctx.fillRect(this.x, this.y,  this.x + spriteSubmarino.largura, this.y + spriteSubmarino.altura);
 		spriteSubmarino.desenha(this.x, this.y);
 	},
 	

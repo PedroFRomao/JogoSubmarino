@@ -69,16 +69,16 @@ tubaroes = {
 	desenha: function () {
 		for (var i = 0, tam = this._obs.length; i < tam; i++) {
 			// Desenha a área de colisão da pedra ajustada à sua posição
-			ctx.fillStyle = "green";
-			ctx.fillRect(this._obs[i].x, this._obs[i].altura - spriteTubarao.altura, spriteTubarao.largura, spriteTubarao.altura);
+			//ctx.fillStyle = "green";
+			//ctx.fillRect(this._obs[i].x, this._obs[i].altura - spriteTubarao.altura, spriteTubarao.largura, spriteTubarao.altura);
 	
 			// Desenha o sprite da pedra
 			spriteTubarao.desenha(this._obs[i].x, this._obs[i].altura - spriteTubarao.altura);
 
 			ctx.fillStyle = "#fff"
 			ctx.font      = "50px Arial"
-			ctx.fillText(this._obs[i].x, 300+i*100, 110+i*60)
-			ctx.fillText(Math.floor(this._obs[i].altura), 300+i*100, 160+i*60)
+			//ctx.fillText(this._obs[i].x, 300+i*100, 110+i*60)
+			//ctx.fillText(Math.floor(this._obs[i].altura), 300+i*100, 160+i*60)
 		}
 	},
 }
