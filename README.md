@@ -42,3 +42,23 @@ A pontuação do jogo é baseada no número de tubarões que o jogador evita. El
 ![image](https://github.com/PedroFRomao/JogoSubmarino/assets/120103357/98133a09-cb87-4410-ac82-5dc0779c631e)
 
 O jogo acaba quando o submarino é atingido por um tubarão. Quando isso acontece, a tela "Game Over" é exibida. Para jogar novamente, basta esperar o botao click here voltar para reiniciar o jogo.
+
+### Documentacao
+![image](https://github.com/PedroFRomao/JogoCanva/assets/120103357/7102f719-6ae0-4ed9-8ea9-8d3154dd0faa)
+
+![image](https://github.com/PedroFRomao/JogoCanva/assets/120103357/390e3285-3adb-44d2-b090-6844a68689b4)
+
+<h1><center>Documentação Casos de Uso</center></h1><br>
+Nome do caso de uso: Jogo do submarino<br>
+Caso de uso geral: Desviar de obstáculos<br>
+Ator principal: Jogador<br>
+Resumo: O jogador deve subir com o submarino ou descer para desviar dos obstáculos que aparecerem, o objetivo é ficar o máximo de tempo o possível desviando<br>
+Pré-condições: O jogo precisa ser iniciado<br>
+Pós condições: Mostra o tempo q o jogador se manteve vivo<br>
+<h3><center>Ações do jogador</center></h3><br>
+1- Iniciar jogo<br>
+2- Desviar dos obstáculos
+
+<h1><center>Explicação do jogo</center></h1><br>
+O jogador controla um submarino amarelo e terá que desviar de obstáculos circulares podendo somente subir ou descer enquanto os obstáculos são gerados na lateral direita do cenário e se movem até a outra lateral. O objetivo do jogo é se manter vivo o máximo do tempo sem bater em nenhum obstáculo, caso o jogador colida com um, o jogo mostrará o tempo que ele conseguiu desviar.
+
